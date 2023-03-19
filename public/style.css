@@ -1,0 +1,45 @@
+body{
+   background: url('./hbr.jpg');
+    
+}
+
+
+#kart{
+ width: 25%;
+ margin:25px 20px;
+}
+
+#img{
+    width: 50%;
+
+}
+.card-body p{
+    font-size: 8px;
+}
+
+#btn1{
+    padding: 1px;
+    width: 77px;
+    height: 31px;
+    margin-left: 2px;
+    margin-right: 10px;
+    font-size: 9px;
+}
+.card-header{
+    padding: 1px;
+    width: 100%;
+    border-bottom: none;
+    background-color: rgb(221, 231, 248);
+}
+.butonGroup{
+    display: flex;
+    justify-content: center;
+}
+
+#autoP{
+    height:100px
+}
+
+#hidden{
+    height: auto;
+}
